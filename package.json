@@ -1,0 +1,20 @@
+{
+  "name": "puppeteer-scraper",
+  "version": "1.0.0",
+  "description": "Script Puppeteer pour extraire des liens MIDI depuis un site web.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "scraping",
+    "midi",
+    "javascript"
+  ],
+  "author": "Votre Nom",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  }
+}
